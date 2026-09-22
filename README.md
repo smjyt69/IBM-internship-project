@@ -20,7 +20,7 @@ Source: [Kaggle — itssuru/hr-employee-attrition](https://www.kaggle.com/datase
 - Target variable: `Attrition` (Yes / No)
 - Features include demographics (Age, Gender, Marital Status), job details (Department, JobRole, JobLevel, MonthlyIncome), satisfaction scores (JobSatisfaction, EnvironmentSatisfaction, WorkLifeBalance), and tenure (YearsAtCompany, TotalWorkingYears, etc.)
 
-> Download the CSV (`WA_Fn-UseC_-HR-Employee-Attrition.csv`) from the Kaggle link above and place it in the same folder as the notebook before running.
+> Download the CSV (`HR-Employee-Attrition.csv`) from the Kaggle link above and place it in the same folder as the notebook before running.
 
 ## Technologies Used
 
@@ -57,10 +57,10 @@ Source: [Kaggle — itssuru/hr-employee-attrition](https://www.kaggle.com/datase
    ```bash
    pip install -r requirements.txt
    ```
-4. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/itssuru/hr-employee-attrition) and place `WA_Fn-UseC_-HR-Employee-Attrition.csv` in the project folder.
+4. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/itssuru/hr-employee-attrition) and place `HR-Employee-Attrition.csv` in the project folder.
 5. Run the script:
    ```bash
-   python YourName_HR_Employee_Attrition_Analysis.py
+   python Srujan_Jathan_HR_Employee_Attrition_Analysis.py
    ```
    Charts will pop up one at a time as the script runs, and are also saved as PNG files in an `outputs/` folder for later reference.
 
@@ -74,7 +74,7 @@ Source: [Kaggle — itssuru/hr-employee-attrition](https://www.kaggle.com/datase
 
 ## Author
 
-_(Add your name, institution, and contact details here)_
+_(Srujan Jathan, srujanjathan042005@gmail.com)_
 
 ## License
 
