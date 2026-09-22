@@ -77,7 +77,7 @@ def section(title):
 # ---------------------------------------------------------------------------
 section("1. LOAD DATASET")
 
-df = pd.read_csv('WA_Fn-UseC_-HR-Employee-Attrition.csv')
+df = pd.read_csv('HR-Employee-Attrition.csv')
 print(f"Shape: {df.shape[0]} rows, {df.shape[1]} columns")
 print(df.head())
 
