@@ -45,7 +45,7 @@ Source: [Kaggle — itssuru/hr-employee-attrition](https://www.kaggle.com/datase
 
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/smjyt69/IBM-internship-project.git>
+   git clone https://github.com/smjyt69/IBM-internship-project.git
    
    ```
 2. Create a virtual environment (recommended):
@@ -74,7 +74,7 @@ Source: [Kaggle — itssuru/hr-employee-attrition](https://www.kaggle.com/datase
 
 ## Author
 
-_(Srujan Jathan, srujanjathan042005@gmail.com)_
+_Srujan Jathan, srujanjathan042005@gmail.com_
 
 ## License
 
