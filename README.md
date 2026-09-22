@@ -33,11 +33,11 @@ Source: [Kaggle — itssuru/hr-employee-attrition](https://www.kaggle.com/datase
 ## Project Structure
 
 ```
-├── YourName_HR_Employee_Attrition_Analysis.py   # Main analysis script
+├── Srujan_Jathan_HR_Employee_Attrition_Analysis.py   # Main analysis script
 ├── requirements.txt                              # Python dependencies
-├── YourName_ProjectReport.docx                    # Full project report
+├── Srujan_Jathan_ProjectReport.docx                    # Full project report
 ├── README.md                                       # This file
-├── WA_Fn-UseC_-HR-Employee-Attrition.csv          # Dataset (download separately from Kaggle)
+├── HR-Employee-Attrition.csv          # Dataset (download separately from Kaggle)
 └── outputs/                                        # Charts saved here when the script runs
 ```
 
@@ -45,8 +45,8 @@ Source: [Kaggle — itssuru/hr-employee-attrition](https://www.kaggle.com/datase
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone <https://github.com/smjyt69/IBM-internship-project.git>
+   
    ```
 2. Create a virtual environment (recommended):
    ```bash
@@ -74,7 +74,7 @@ Source: [Kaggle — itssuru/hr-employee-attrition](https://www.kaggle.com/datase
 
 ## Author
 
-*(Add your name, institution, and contact details here)*
+_(Add your name, institution, and contact details here)_
 
 ## License
 
